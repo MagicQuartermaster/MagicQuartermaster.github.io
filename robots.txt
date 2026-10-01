@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://magicquartermaster.github.io/sitemap.xml
